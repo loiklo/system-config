@@ -1,2 +1,0 @@
-# Fido U2F
-SUBSYSTEMS=="usb", ATTRS{idVendor}=="2581", ATTRS{idProduct}=="f1d0", MODE="0660", GROUP="plugdev"
